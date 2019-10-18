@@ -13,7 +13,7 @@ $ npm install wait-notify [--save]
 ```
 
 ## Examples
-[test.js](https://github.com/machenjie/wait-nofity/blob/master/test/index.js)
+[test.js](https://github.com/machenjie/wait-notify/blob/master/test/index.js)
 ```
 const WaitNotify = require('wait-notify');
 const waitNotify = new WaitNotify();
@@ -58,4 +58,4 @@ notify the first waiter to wake up
 
 ## License
 
-The project is licensed under the MIT License. See the [LICENSE](https://github.com/machenjie/wait-nofity/blob/master/LICENSE) file for more details
+The project is licensed under the MIT License. See the [LICENSE](https://github.com/machenjie/wait-notify/blob/master/LICENSE) file for more details

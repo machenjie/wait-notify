@@ -1,5 +1,5 @@
 {
-  "name": "wait-nofity",
+  "name": "wait-notify",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/machenjie/wait-nofity.git"
+    "url": "git+https://github.com/machenjie/wait-notify.git"
   },
   "keywords": [
     "node",
@@ -32,9 +32,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/machenjie/wait-nofity/issues"
+    "url": "https://github.com/machenjie/wait-notify/issues"
   },
-  "homepage": "https://github.com/machenjie/wait-nofity#readme",
+  "homepage": "https://github.com/machenjie/wait-notify#readme",
   "devDependencies": {
     "eslint": "^6.5.1",
     "eslint-config-egg": "^7.5.1"
