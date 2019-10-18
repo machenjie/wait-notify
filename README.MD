@@ -1,6 +1,8 @@
 # wait-notify
 Wait here until others notify you that you can go!
 
+Just support node now.
+
 ## Introduction
 Wait/Notify mode like other languages.
 
@@ -13,7 +15,7 @@ $ npm install wait-notify [--save]
 ## Examples
 [test.js](https://github.com/machenjie/wait-nofity/blob/master/test/index.js)
 ```
-const WaitNotify = require('..');
+const WaitNotify = require('wait-notify');
 const waitNotify = new WaitNotify();
 
 (async () => {
