@@ -45,16 +45,19 @@ the constructor
 ### WaitNotify.wait(timeout=0)
 wait until others notify or timeout
 - `timeout` :  integer The max time to wait in second. default is infinite.
-- `return` : promise Wait the end, or catch the timeout
+- `return` : promise Wait the end, or catch the timeout error
 
 ### WaitNotify.notify()
 notify all the waiter to wake up
+- `return` : undefined
 
 ### WaitNotify.notifyAll()
 notify all the waiter to wake up
+- `return` : undefined
 
 ### WaitNotify.notifyOne()
 notify the first waiter to wake up
+- `return` : undefined
 
 ## License
 
