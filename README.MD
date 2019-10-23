@@ -44,7 +44,7 @@ the constructor
 
 ### WaitNotify.wait(timeout=0)
 wait until others notify or timeout
-- `timeout` :  integer The max time to wait in second. default is infinite.
+- `timeout` :  integer The max time to wait in millisecond. default is infinite.
 - `return` : promise Wait the end, or catch the timeout error
 
 ### WaitNotify.notify()
